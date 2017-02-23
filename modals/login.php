@@ -1,7 +1,7 @@
 <div class="modal" id="login" tabindex="-1" role="dialog">
   <div class="modal-dialog" role="document">
     <div class="modal-content">
-      <form action="../functions/Login.php" method="post">
+      <form action="functions/Login.php" method="post">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal"><span>&times;</span></button>
           <h4 class="modal-title" id="myModalLabel">Login <span id="edit-headline">...</span></h4>
