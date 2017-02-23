@@ -1,0 +1,13 @@
+@import url("extra.css");
+.section {
+  min-height: 250px;
+  padding-left: 20px;
+}
+
+#edit-headline {
+  font-style: italic;
+}
+
+img {
+  margin: 0 10px;
+}

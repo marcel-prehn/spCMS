@@ -1,0 +1,14 @@
+.links {
+  float: left;
+  margin-left: 20px;
+}
+
+.rechts {
+  float: right;
+  margin-right: 20px;
+}
+
+.mitte {
+    margin: 0 auto;
+    display: block;
+}
